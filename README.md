@@ -28,4 +28,5 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 # Screenshot
-![screenshot](Screenshot.pgn)
+
+![Screenshot](https://user-images.githubusercontent.com/85190538/125850587-d3e4a128-e043-42f7-aea2-b20091ab0bc1.png)
