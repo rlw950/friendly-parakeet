@@ -43,7 +43,7 @@ function generatePassword() {
     var element = formula[Math.floor(Math.random()*formula.length)]
     newPassword += element;
   }
-  return;
+  return newPassword;
 };
 
 // Add event listener to generate button
