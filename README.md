@@ -21,4 +21,4 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 # Screenshot
-![Alt text](screenshot.png?raw=true "Screenshot")
+![alt text](https://github.com/rlw950/friendly-parakeet-password/blob/main/Screenshot.pgn?raw=true)
