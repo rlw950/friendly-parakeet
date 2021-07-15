@@ -3,6 +3,13 @@
 # Objective
 To randomly generate a password that meets certain criteria so that a strong password is created to provide greater security.
 
+# Published Website
+https://rlw950.github.io/friendly-parakeet-password/
+
+# Github Repository
+
+https://github.com/rlw950/friendly-parakeet-password
+
 # Acceptance Criteria
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
@@ -21,4 +28,4 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 # Screenshot
-![alt text](https://github.com/rlw950/friendly-parakeet-password/main/Screenshot.pgn?raw=true)
+![screenshot](Screenshot.pgn)
